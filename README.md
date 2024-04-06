@@ -2,7 +2,9 @@
 A portfolio on mapping and analysis. Sample digitising, georeferencing and geospatial analysis are captured
 
 
-### Digitising roads to provide an insight on nature of roads,their purpose  and use
+
+
+### Digitised roads to provide an insight on nature of roads,their purpose  and use
  
  - Software: QGIS ,Google Maps,Excel
  - Analysis: Link-node ratio
@@ -14,7 +16,9 @@ An area after being digitised looks like this
  ![](https://github.com/kof1nti/Mapping/blob/main/road%20.png)
 
 
- ### Navigating through an area using google maps and digitising building information in an atttribute table
+
+
+ ### Navigated through an area using google maps and digitised building information 
 - Software: QGIS, Google Maps, Excel
 - Analysis:  Building, Use and Style
 - File Format : shapefile
@@ -25,7 +29,9 @@ An area after being digitised looks like this
 ![](https://github.com/kof1nti/Mapping/blob/main/building.png)
 
 
-### Georeferencing a pdf map on planning policy and generating separate geopackages of available layers 
+
+
+### Georeferenced a pdf map on planning policy and generated separate geopackages of available layers 
 - Software: QGIS, Excel
 - Analysis: Planning Policy
 - File Format: Geopackage
@@ -40,7 +46,8 @@ An area after being digitised looks like this
 
 
 
-### Generating a clustering algorithm to be used to retrieve locations of users
+
+### Generated a clustering algorithm used to retrieve locations of users
 - Software : QGIS
 - Analysis: Geolocation and Ads
 - Insight : Using QGIS, a cluster algorithm was done on logs received from a platform. Logs received emanated from geolocated areas of users as a record of their reactions to  advertisements run on platform. 
